@@ -1,0 +1,41 @@
+.coders_user{
+    text-align: center;
+}
+
+.user_card{
+    width: 250px;
+    height: 450px;
+    display: inline-block;
+    padding: 10px 8px;
+    box-sizing: border-box;
+    vertical-align: top;
+    margin-left: 40px;
+    margin-top: 15px;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.12), 0 2px 2px rgba(0,0,0,0.12);
+}
+
+.card_img{
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+.card_name , .card_lastname{
+    font-size: 1.3vw;
+}
+
+.filter_user{
+    max-width: 450px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+.btn{
+    border: none;
+    outline: none;
+    padding: 8px 15px;
+    background-color: salmon;
+    color: blanchedalmond;
+    border-radius: 12px;
+}

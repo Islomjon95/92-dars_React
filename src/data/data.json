@@ -1,0 +1,13 @@
+{
+    "users" : [
+        {"id": 1,"name": "Diyor" , "lastname": "Nuriddinov" , "age": 17, "location" : "Uzbekistan"},
+        {"id": 2,"name": "Behruz" , "lastname": "Komilov" , "age": 16, "location" : "China"},
+        {"id": 3,"name": "Sardor" , "lastname": "Habibov" , "age": 17, "location" : "China"},
+        {"id": 4,"name": "Odina" , "lastname": "Botirova" , "age": 16, "location" : "Uzbekistan"},
+        {"id": 5,"name": "Shaxnoza" , "lastname": "Olimova" , "age": 18, "location" : "Uzbekistan"},
+        {"id": 6,"name": "Farrux" , "lastname": "Karimov" , "age": 15, "location" : "China"},
+        {"id": 7,"name": "Javohir" , "lastname": "Berdiyev" , "age": 20, "location" : "Uzbekistan"},
+        {"id": 8,"name": "Aziz" , "lastname": "Bekjonov" , "age": 19, "location" : "Uzbekistan"},
+        {"id": 9,"name": "Jahongir" , "lastname": "Latipov" , "age": 21, "location" : "American"}
+    ]
+}
